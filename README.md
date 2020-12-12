@@ -6,6 +6,7 @@
 
 ## Here's some stuff I'm currently looking into:
 * [Flocking](http://www.red3d.com/cwr/boids/ "A Distributed Behavioral Model")
+* [Panda3D](https://arsthaumaturgis.github.io/Panda3DTutorial.io/tutorial/prologue.html "A Panda3D Tutorial")
 
 
 
