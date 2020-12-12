@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)
 
-## Here's some stuff I'm currently looking into:
+## Here's some stuff I'm currently looking into
 * [Flocking](http://www.red3d.com/cwr/boids/ "A Distributed Behavioral Model")
 * [Panda3D](https://arsthaumaturgis.github.io/Panda3DTutorial.io/tutorial/prologue.html "A Panda3D Tutorial")
 
