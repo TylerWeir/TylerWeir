@@ -1,6 +1,6 @@
 # Tyler Weir
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerWeir&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TylerWeir&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerWeir&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TylerWeir&show_icons=true&theme=gruvbox&count_private=true)
 
 ### Current Interests
 * [Flocking](http://www.red3d.com/cwr/boids/ "A Distributed Behavioral Model")
