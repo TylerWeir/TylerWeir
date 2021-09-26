@@ -1,5 +1,5 @@
 # Tyler Weir
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerWeir&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerWeir&theme=gruvbox&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TylerWeir&show_icons=true&theme=gruvbox&count_private=true)
 
 ### Current Interests
